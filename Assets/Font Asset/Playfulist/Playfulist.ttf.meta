@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ff4729fecc8336e4f979d1fe9b9ac89b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Playfulist
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f7598fbc22c51e4498061d6c8b6e9fa9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
